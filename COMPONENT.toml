@@ -3,7 +3,7 @@ name = "SigmaOS-qrencode"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "qrencode component"
+description = "SigmaOS SigmaOS-qrencode component"
 upstream = []
 
 [contract]
